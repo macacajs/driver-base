@@ -1,11 +1,11 @@
 {
   "name": "driver-base",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "driver-base",
   "keywords": [
     "driver-base"
   ],
-  "main": "index.js",
+  "main": "./lib/driver-base",
   "repository": {
     "type": "git",
     "url": "git://github.com/xudafeng/driver-base.git"

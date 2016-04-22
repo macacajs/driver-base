@@ -13,8 +13,12 @@
 
 'use strict';
 
-var driver-base = require('..');
+var DriverBase = require('..');
 
-describe('test', function() {
+describe('Test', function() {
+
+  it('DriverBase ok', function() {
+    DriverBase.should.be.ok;
+  });
 
 });
