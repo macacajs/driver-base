@@ -1,6 +1,6 @@
 {
   "name": "driver-base",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "driver-base",
   "keywords": [
     "driver-base"
@@ -8,7 +8,7 @@
   "main": "./lib/driver-base",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xudafeng/driver-base.git"
+    "url": "git://github.com/macacajs/driver-base.git"
   },
   "dependencies": {
     "webdriver-dfn-error-code": "~1.0.1"
@@ -28,9 +28,6 @@
   "pre-commit": [
     "jshint"
   ],
-  "homepage": "https://github.com/xudafeng/driver-base",
-  "author": "xudafeng",
-  "email": "xudafeng@126.com",
-  "blog": "http://xdf.me",
+  "homepage": "https://github.com/macacajs/driver-base",
   "license": "MIT"
 }
