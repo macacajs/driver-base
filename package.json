@@ -1,9 +1,9 @@
 {
   "name": "driver-base",
   "version": "0.1.4",
-  "description": "driver-base",
+  "description": "Macaca driver base",
   "keywords": [
-    "driver-base"
+    "driver"
   ],
   "main": "./lib/driver-base",
   "repository": {
@@ -15,11 +15,11 @@
   },
   "devDependencies": {
     "co-mocha": "*",
-    "mocha": "*",
-    "should": "*",
+    "istanbul": "^0.4.5",
     "jshint": "*",
-    "istanbul": "*",
-    "pre-commit": "1.1.1"
+    "mocha": "*",
+    "pre-commit": "1.1.1",
+    "should": "*"
   },
   "scripts": {
     "test": "make test",

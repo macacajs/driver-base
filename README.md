@@ -17,11 +17,11 @@
 [download-image]: https://img.shields.io/npm/dm/driver-base.svg?style=flat-square
 [download-url]: https://npmjs.org/package/driver-base
 
-> driver base
+> Macaca driver base
 
 ## Installment
 
-```bash
+``` bash
 $ npm i driver-base --save
 ```
 

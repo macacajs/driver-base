@@ -5,7 +5,7 @@ var DriverBase = require('..');
 describe('Test', function() {
 
   it('DriverBase ok', function() {
-    DriverBase.should.be.ok;
+    DriverBase.should.be.ok();
   });
 
 });
